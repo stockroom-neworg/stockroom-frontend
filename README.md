@@ -4,7 +4,7 @@ A standalone warehouse inventory management SPA built with React 18, Vite 5, Typ
  
 ## Features
 
-- Dashboard with stat cards and recent stock movement history 8 ta2523 safe to
+- Dashboard with stat cards and recent stock movement history 8 ta2523 safe to deploy
 - Product management (create, edit, delete) with category association
 - Category management with inline add form
 - Stock movement recording (IN / OUT) with automatic product quantity refresh
